@@ -1,0 +1,65 @@
+<!-- NAMED COLORS -->
+#A{
+    color: blue;
+}
+#B{
+    color: crimson;
+}
+#C{
+    color: darkorange;
+}
+
+<!-- HEX COLORS -->
+#D{
+    color: #FF5733;
+}
+#E{
+    color: #33FF57;
+}
+#F{
+    color: #3357FF;
+}
+
+<!-- RGB COLORS -->
+#G{
+    color: rgb(255, 0, 0);
+}
+#H{
+    color: rgb(0, 255, 0);
+}
+#I{
+    color: rgb(0, 0, 255);
+}
+
+<!-- RGBA COLORS -->
+#J{
+    color: rgba(255, 0, 0, 0.5);
+}
+#K{
+    color: rgba(0, 255, 0, 0.5);
+}
+#L{
+    color: rgba(0, 0, 255, 0.5);
+}
+
+<!-- HSL COLORS -->
+#M{
+    color: hsl(240, 100%, 50%);
+}
+#N{
+    color: hsl(120, 100%, 50%);
+}
+#O{
+    color: hsl(0, 100%, 50%);
+}
+
+<!-- HSLA COLORS -->
+#P{
+    color: hsla(240, 100%, 50%, 0.5);
+}
+#Q{
+    color: hsla(120, 100%, 50%, 0.5);
+}
+#R{
+    color: hsla(0, 100%, 50%, 0.5);
+}

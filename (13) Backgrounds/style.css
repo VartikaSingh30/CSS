@@ -1,0 +1,32 @@
+<!-- BACKGROUND-COLORS -->
+
+#A{
+    background-color: red;
+}
+
+#B{
+    background-color: #FF5733;
+}
+
+#C{
+    background-color: rgb(0, 255, 0);
+}
+
+#D{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+#E{
+    background-color: hsl(240, 100%, 50%);
+}
+
+#F{
+    background-color: hsla(120, 100%, 50%, 0.3);
+}
+
+<!-- BACKGROUND-IMAGES -->
+
+#G{
+    background-image:url(img.png);
+}
+
