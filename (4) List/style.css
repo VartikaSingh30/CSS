@@ -1,0 +1,44 @@
+/* UNORDERED LIST STYLES */
+#1{
+    list-style-type: disc;  
+}
+#2{
+    list-style-type: circle;
+}
+#3{
+    list-style-type: square;
+}
+#4{
+    list-style-type: none;
+}
+
+/* ORDERED LIST STYLES */
+#5{
+    list-style-type: decimal;
+}
+#6{
+    list-style-type: decimal-leading-zero;
+}
+#7{
+    list-style-type: lower-roman;
+}
+#8{
+    list-style-type: upper-roman;
+}
+#9{
+    list-style-type: lower-alpha;
+}
+#10{
+    list-style-type: upper-alpha;
+}
+
+/* LIST STYLE POSITION */
+#11{
+    list-style-position: inside;
+}
+#12{
+    list-style-position: outside;
+}
+
+
+

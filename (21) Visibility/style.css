@@ -1,0 +1,12 @@
+/* VISIBLE */
+#1{
+    visibility: visible;
+}
+/* HIDDEN */
+#2{
+    visibility: hidden;
+}
+/* COLLAPSED */
+#3{
+    visibility: collapse;
+}
