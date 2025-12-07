@@ -1,0 +1,95 @@
+/* TABLE BORDER */
+#A1{
+    border: 2px solid black;
+}
+
+/* TABLE BORDER COLLAPSE */
+#A2{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+/* TABLE BORDER SEPARATE */
+#A3{
+    border: 2px solid black;
+    border-collapse: separate;
+}
+
+/* TABLE SPACING */
+#A4{
+    border-collapse: separate;
+    border-spacing: 15px 10px;
+    border-spacing: 15px 10px;
+}
+
+/* TABLE LAYOUT */
+#A5{
+    width: 300px;
+    table-layout: fixed;
+    border: 1px solid black;
+}  
+#A6{
+    width: 300px;
+    table-layout: auto;
+    border: 1px solid black;
+}   
+
+/* TABLE CAPTION SIDE TOP */
+#A7{
+    caption-side: top;
+    border: 1px solid black;
+}
+#A8{
+    caption-side: bottom;
+    border: 1px solid black;
+}
+
+/* TABLE EMPTY CELLS */
+#A9{
+    empty-cells: hide;
+    border: 1px solid black;
+
+}
+#A10{
+    empty-cells: show;
+    border: 1px solid black;
+}
+
+/* TEXT ALIGNMENT */
+#A11{
+    text-align: left;
+    border: 1px solid black;
+}
+#A12{
+    text-align: center;
+    border: 1px solid black;
+}
+#A13{
+    text-align: right;
+    border: 1px solid black;
+}
+
+/* VERTICAL ALIGNMENT */
+#A14{
+    vertical-align: top;
+    border: 1px solid black;
+}
+#A15{
+    vertical-align: middle;
+    border: 1px solid black;
+}
+#A16{
+    vertical-align: bottom;
+    border: 1px solid black;
+}
+#A17{
+    vertical-align: baseline;
+    border: 1px solid black;
+}
+
+
+
+
+
+
+

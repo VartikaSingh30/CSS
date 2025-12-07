@@ -1,62 +1,86 @@
 /* TEXT DECORATION */
-#1{
+#A1{
     text-decoration: overline;
 }
-#2{
+#A2{
     text-decoration: underline;
 }
-#3{
+#A3{
     text-decoration: line-through;
 }
-#4{
+#A4{
     text-decoration: none;
 }
 
 /* TEXT ALIGNMENT */
-#5{
+#A5{
     text-align: left;
 }
-#6{
+#A6{
     text-align: center;
 }   
-#7{
+#A7{
     text-align: right;
 }
-#8{
+#A8{
     text-align: justify;
 }
 
 /* TEXT TRANSFORM */
-#9{
+#A9{
     text-transform: uppercase;
 }
-#10{
+#A10{
     text-transform: lowercase;
 }
-#11{
+#A11{
     text-transform: capitalize;
 }
-#12{
+#A12{
     text-transform: none;
 }
 
 
 /* TEXT SPACING */
-#13{
+#A13{
     letter-spacing: 5px;
 }
 
 /* WORD SPACING */
-#14{
+#A14{
     word-spacing: 10px;
 }
 
 /* LETTER SPACING */
-#15{
+#A15{
     line-height: 2;
 }
 
 /* TEXT INDENT */
-#16{
+#A16{
     text-indent: 50px;
-}   
+} 
+
+
+/* TEXT COLOR */
+#A17 {
+    color: blue;
+}
+#A18 {
+    color: #ff5733;
+}
+#A19 {
+    color: rgb(34, 139, 34);
+}
+#A20 {
+    color: rgba(255, 0, 0, 0.5);
+}
+#A21 {
+    color: hsl(240, 100%, 50%);
+}
+#A22 {
+    color: hsla(120, 100%, 25%, 0.7);
+}
+
+
+
