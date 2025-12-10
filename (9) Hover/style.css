@@ -1,16 +1,19 @@
 /* HOVER ON LINKS */
-#1{
+#A1{
     color: crimson;
 }
-#2{
+#A2{
     text-decoration: none;
 }
-#3{
-    font-weight: bold;
+#A3{
+    background-color: aquamarine;
 }
-#4{
-    font-style: italic;
+#A4{
+    transition: 0.5s ;
 }
-#5{
-    text-transform: uppercase;
+#A5{
+    font-size: large;
+}
+#A6{
+    letter-spacing: 1px;
 }
